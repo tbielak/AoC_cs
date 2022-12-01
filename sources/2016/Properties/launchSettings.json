@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "2016": {
+      "commandName": "Project",
+      "workingDirectory": "..\\..\\bin"
+    }
+  }
+}
