@@ -31,4 +31,4 @@ Repository contains the following directories:
 
 ## Other programming languages
 
-C# isn't your favorite programming language? See much more Advent of Code puzzle solutions in [C++](https://github.com/tbielak/AoC_cpp)!
+C# isn't your favorite programming language? See some Advent of Code puzzle solutions in [Python](https://github.com/tbielak/AoC_py) and much more in [C++](https://github.com/tbielak/AoC_cpp)!
