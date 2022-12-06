@@ -9,6 +9,7 @@ Directory | Contents
 [2019](2019) | Year 2019 puzzle solutions.
 [2020](2020) | Year 2020 puzzle solutions.
 [2021](2021) | Year 2021 puzzle solutions.
+[2022](2022) | Year 2022 puzzle solutions.
 [AoC](AoC) | Library which delivers execution environment for all the puzzles. It is used in all projects mentioned above. See [here](../bin) to explore solutions running.
 
 

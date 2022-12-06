@@ -4,7 +4,7 @@ After successful build in *Release* configuration you'll find your executables h
 
 To run executable "as designed", just pick up one *exe* file and run it from command line prompt, without any parameters:
 ```sh
-> 2021.exe
+> 2022.exe
 ```
 
 
@@ -12,17 +12,17 @@ To run executable "as designed", just pick up one *exe* file and run it from com
 
 To get familiar with command line options, run the executable with *-h* switch (help):
 ```sh
-> 2021 -h
+> 2022 -h
 ```
 
 To run single day puzzle solution(s) use *-p* switch and select the day. Example of running 2nd day puzzle solution(s):
 ```sh
-> 2021 -p 2
+> 2022 -p 2
 ```
 
 Puzzles may have more than one solution of the problem. To see how many solutions is available per day use *-a* switch:
 ```sh
-> 2021 -a
+> 2022 -a
 ```
 
 To run single solution also use *-p* switch and select the day and the solution. Example of running 18th day, 2nd puzzle solution:

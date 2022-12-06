@@ -3,20 +3,20 @@
 
 
 ## Features
-- Advent of Code 2015-2021 solutions in C#
+- Advent of Code 2015-2022 solutions in C#
 - ready to build for Windows in Microsoft Visual Studio Community 2022
 
 ## Solutions matrix
 AoC.cs | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022
 ------: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-Day 1 | [⭐](sources/2015/2015_01.cs) | [⭐](sources/2016/2016_01.cs) | [⭐](sources/2017/2017_01.cs) | [⭐](sources/2018/2018_01.cs) | [⭐](sources/2019/2019_01.cs) | [⭐](sources/2020/2020_01.cs) | [⭐](sources/2021/2021_01.cs) |
-Day 2 | [⭐](sources/2015/2015_02.cs) | [⭐](sources/2016/2016_02.cs) | [⭐](sources/2017/2017_02.cs) | [⭐](sources/2018/2018_02.cs) | [⭐](sources/2019/2019_02.cs) | [⭐](sources/2020/2020_02.cs) | [⭐](sources/2021/2021_02.cs) |
-Day 3 | [⭐](sources/2015/2015_03.cs) | [⭐](sources/2016/2016_03.cs) | [⭐](sources/2017/2017_03.cs) | [⭐](sources/2018/2018_03.cs) | [⭐](sources/2019/2019_03.cs) | [⭐](sources/2020/2020_03.cs) | [⭐](sources/2021/2021_03.cs) |
+Day 1 | [⭐](sources/2015/2015_01.cs) | [⭐](sources/2016/2016_01.cs) | [⭐](sources/2017/2017_01.cs) | [⭐](sources/2018/2018_01.cs) | [⭐](sources/2019/2019_01.cs) | [⭐](sources/2020/2020_01.cs) | [⭐](sources/2021/2021_01.cs) | [⭐](sources/2022/2022_01.cs)
+Day 2 | [⭐](sources/2015/2015_02.cs) | [⭐](sources/2016/2016_02.cs) | [⭐](sources/2017/2017_02.cs) | [⭐](sources/2018/2018_02.cs) | [⭐](sources/2019/2019_02.cs) | [⭐](sources/2020/2020_02.cs) | [⭐](sources/2021/2021_02.cs) | [⭐](sources/2022/2022_02.cs)
+Day 3 | [⭐](sources/2015/2015_03.cs) | [⭐](sources/2016/2016_03.cs) | [⭐](sources/2017/2017_03.cs) | [⭐](sources/2018/2018_03.cs) | [⭐](sources/2019/2019_03.cs) | [⭐](sources/2020/2020_03.cs) | [⭐](sources/2021/2021_03.cs) | [⭐](sources/2022/2022_03.cs)
 
 Legend: <br />
 ⭐ = solution available (both parts) <br />
 
-Current status: **42** AoC stars covered
+Current status: **48** AoC stars covered
 
 ## Repository contents
 
